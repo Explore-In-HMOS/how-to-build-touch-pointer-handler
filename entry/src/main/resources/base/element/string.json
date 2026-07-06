@@ -1,0 +1,40 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "tap",
+      "value": "Tap Here"
+    },
+    {
+      "name": "one_finger",
+      "value": "One Finger"
+    },
+    {
+      "name": "two_fingers",
+      "value": "Two Fingers"
+    },
+    {
+      "name": "title",
+      "value": "Tap Lock"
+    },
+    {
+      "name": "desc",
+      "value": "Touch with one or two fingers"
+    },
+    {
+      "name": "reset",
+      "value": "Reset"
+    }
+  ]
+}
